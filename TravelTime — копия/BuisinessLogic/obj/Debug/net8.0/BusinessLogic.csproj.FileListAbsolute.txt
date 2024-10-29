@@ -1,0 +1,15 @@
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\Domain.dll
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\Domain.pdb

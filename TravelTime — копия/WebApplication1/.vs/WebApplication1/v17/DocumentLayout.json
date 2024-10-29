@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TravelTime\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8EB6C0-0331-4C06-AD91-5ED0C854B737}|BackendApi.csproj|c:\\traveltime\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8EB6C0-0331-4C06-AD91-5ED0C854B737}|BackendApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B1E2B4-5DF5-4DBE-9586-B308289F321F}|..\\BuisinessLogic\\BusinessLogic.csproj|c:\\traveltime\\buisinesslogic\\services\\pointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B1E2B4-5DF5-4DBE-9586-B308289F321F}|..\\BuisinessLogic\\BusinessLogic.csproj|c:\\traveltime\\buisinesslogic\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B1E2B4-5DF5-4DBE-9586-B308289F321F}|..\\BuisinessLogic\\BusinessLogic.csproj|c:\\traveltime\\buisinesslogic\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6455A93-8A8E-4D86-A7A4-8753E0048C32}|..\\Domain\\Domain.csproj|c:\\traveltime\\domain\\interfaces\\service\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8EB6C0-0331-4C06-AD91-5ED0C854B737}|BackendApi.csproj|c:\\traveltime\\webapplication1\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8EB6C0-0331-4C06-AD91-5ED0C854B737}|BackendApi.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6455A93-8A8E-4D86-A7A4-8753E0048C32}|..\\Domain\\Domain.csproj|c:\\traveltime\\domain\\interfaces\\service\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6455A93-8A8E-4D86-A7A4-8753E0048C32}|..\\Domain\\Domain.csproj|c:\\traveltime\\domain\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6455A93-8A8E-4D86-A7A4-8753E0048C32}|..\\Domain\\Domain.csproj|c:\\traveltime\\domain\\interfaces\\service\\iusersgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TravelTime\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TravelTime\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAtwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:54:11.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\TravelTime\\BuisinessLogic\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "..\\BuisinessLogic\\Services\\NewsService.cs",
+              "ToolTip": "C:\\TravelTime\\BuisinessLogic\\Services\\NewsService.cs",
+              "RelativeToolTip": "..\\BuisinessLogic\\Services\\NewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:53:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointService.cs",
+              "DocumentMoniker": "C:\\TravelTime\\BuisinessLogic\\Services\\PointService.cs",
+              "RelativeDocumentMoniker": "..\\BuisinessLogic\\Services\\PointService.cs",
+              "ToolTip": "C:\\TravelTime\\BuisinessLogic\\Services\\PointService.cs",
+              "RelativeToolTip": "..\\BuisinessLogic\\Services\\PointService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:53:05.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\TravelTime\\Domain\\Interfaces\\Service\\INewsService.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\Service\\INewsService.cs",
+              "ToolTip": "C:\\TravelTime\\Domain\\Interfaces\\Service\\INewsService.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\Service\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:52:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\TravelTime\\Domain\\Interfaces\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\Service\\IUserService.cs",
+              "ToolTip": "C:\\TravelTime\\Domain\\Interfaces\\Service\\IUserService.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:51:20.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsersGroupService.cs",
+              "DocumentMoniker": "C:\\TravelTime\\Domain\\Interfaces\\Service\\IUsersGroupService.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\Service\\IUsersGroupService.cs",
+              "ToolTip": "C:\\TravelTime\\Domain\\Interfaces\\Service\\IUsersGroupService.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\Service\\IUsersGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:51:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\TravelTime\\BuisinessLogic\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "..\\BuisinessLogic\\Services\\RoleService.cs",
+              "ToolTip": "C:\\TravelTime\\BuisinessLogic\\Services\\RoleService.cs",
+              "RelativeToolTip": "..\\BuisinessLogic\\Services\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:35:30.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\TravelTime\\WebApplication1\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "C:\\TravelTime\\WebApplication1\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:35:17.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\TravelTime\\Domain\\Interfaces\\Service\\IRoleService.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\Service\\IRoleService.cs",
+              "ToolTip": "C:\\TravelTime\\Domain\\Interfaces\\Service\\IRoleService.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\Service\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:35:09.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

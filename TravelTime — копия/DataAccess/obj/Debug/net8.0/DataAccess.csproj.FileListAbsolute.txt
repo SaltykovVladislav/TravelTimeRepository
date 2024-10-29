@@ -1,0 +1,15 @@
+C:\TravelTime\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\TravelTime\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\TravelTime\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\TravelTime\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\TravelTime\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\TravelTime\DataAccess\bin\Debug\net8.0\Domain.dll
+C:\TravelTime\DataAccess\bin\Debug\net8.0\Domain.pdb
+C:\TravelTime\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date

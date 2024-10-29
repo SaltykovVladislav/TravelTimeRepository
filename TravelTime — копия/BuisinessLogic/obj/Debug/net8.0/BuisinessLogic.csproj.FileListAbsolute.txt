@@ -1,0 +1,17 @@
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\BuisinessLogic.deps.json
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\BuisinessLogic.dll
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\BuisinessLogic.pdb
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BuisinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BuisinessLogic.AssemblyInfoInputs.cache
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BuisinessLogic.AssemblyInfo.cs
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BuisinessLogic.csproj.CoreCompileInputs.cache
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BuisinessLogic.dll
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\refint\BuisinessLogic.dll
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BuisinessLogic.pdb
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\ref\BuisinessLogic.dll
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\DataAccess.dll
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\TravelTimeDatabasses.dll
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\DataAccess.pdb
+C:\TravelTime\BuisinessLogic\bin\Debug\net8.0\TravelTimeDatabasses.pdb
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\BuisinessLogic.csproj.AssemblyReference.cache
+C:\TravelTime\BuisinessLogic\obj\Debug\net8.0\Buisines.ACB65AAE.Up2Date
